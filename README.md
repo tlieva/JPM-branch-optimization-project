@@ -1,5 +1,12 @@
 # JP Morgan Chase & Co. Branch Optimization Project
-This is a repository for my collaborative term project completed for BUS4022 Programming Fundamentals for Analytics during my post-graduate studies at George Brown College in Analytics for Business Decision-Making
+This is a repository for my collaborative term project completed for BUS4022 Programming Fundamentals for Analytics during my post-graduate studies at George Brown College in Analytics for Business Decision-Making. 
+
+The project involved analyzing a sample of the JPMorgan Chase & Co Bank retail deposits data at the branch level from 2010 to 2016, with the goal of providing branch optimization strategies for 9% increase in customer retention and overall bank growth via top-down approach.
+
+#### Final Deliverables:
+- Identified underperforming branches of concern that would require new optimization strategies based on 3 key KPI analyzed for each segment: Y-o-Y growth rate, average deposits, and share of segment by state, county, and city level.
+- Developed forecasting models to predict future growth rates to further support strategic planning.
+- Application(s) used: SQL-SAS for data cleaning and transformation; data modelling and forecasting using Tableau.
 
 ## Project Background
 JPMorgan Chase & Co. (NYSE: JPM) is a leading global financial services firm with assets of $1.2 trillion and operations in more than 50 countries. The firm is a leader in financial services for consumers and several other lines of business. JPM serves millions of consumers in the United States under its JPMorgan and Chase brands (Chase Bank).
@@ -13,8 +20,6 @@ We were provided with  Chase Bank data for retail deposits (i.e. mainly checking
 
 A sample of raw dataset can be viewed [here via ipynb](https://github.com/tlieva/JPM-branch-optimization-project/blob/668c0d877f76fda5bf05123ff825b0de9931a848/JPmorgan_chase_raw.ipynb).
 
-
-Applications used: SAS, Tableau
 
 ## Methodology
 **Summary of approach:** To develop appropriate optimization strategies, we looked to identify underperforming branches under JPMorgan Chase & Co by segmenting the deposit data provided by the firm by state, county, and city. Performance will be measured by analyzing the year-over-year, share of segments, total and average deposits at each segment level to identify the underperforming branches that require further evaluation to increase optimization. Appropriate recommendations are to be provided based on identification of underperforming branches at JPMorgan Chase & Co.
@@ -55,7 +60,7 @@ The final processed data was exported from SAS into an Excel file for further mo
 #### The Forecasting Model
 The forecasting model also provides the institution the ability to make more informed decisions on the immediate future of the firm and for a more data-driven approach in strategic planning including for branch optimizations. This will also allow JPMorgan Chase to assess whether short-term goals are being met and develop action plans in anticipation of down years.
 
-### Interactive Dashbaord
+#### Interactive Dashbaord
 The purpose of this dashboard is to assist the Chase Bank to identify, monitor and improve on the branches that are underperforming at the county, city and state level by using Year over Year Growth Rate, Share of Segment and Average Deposits as measurement metrics.
 
 Link to [Interactive Dashboard](https://public.tableau.com/views/JPMorgan_ChaseStory_16537215416810/JPMorgan_Chase?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
