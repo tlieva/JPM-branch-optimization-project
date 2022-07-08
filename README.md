@@ -28,5 +28,27 @@ The final processed data was exported from SAS into an Excel file for further mo
 
 
 ## Summary Data Analysis & Findings
+ - Analysis was conducted using a top-down approach which identified New York as the state of interest with the highest average deposits across the country. Furthermore, its average growth rate has reached 9.3% over the last 7 years. 
+ - When assessing segmentation by counties, Suffolk and Westchester show indications of underperformance in comparison with the rest of the counties. These counties were found to have lower than average deposits despite having a large number of branch locations at 84 and 91 branches, respectively, when compared to counties with similar numbers. 
+ - Further segmentation by city level within the two counties identified six branches of concern that had a negative growth rate in 2016. 
 
+#### Therefore, our group presents the following three main recommendations:  
+1. **Re-assess the location of underperforming branches**
+2. **Optimize branches in cities with high numbers of branches and low average deposits**
+    - Counties with a high number of branches and lower average deposits should be targeted for branch optimization strategies. 
+    - Underperforming branches should either be slated for closure or audited to determine the cause for negative growth rates 
+3. **Assess whether cities with a single branch can sustain the opening of additional locations in the city based on forecasted figures; and implement recommended branch optimization strategies.**
+    - Branch optimization strategies should target branches that hold a large share of the segment to ensure that growth rate is not impacted by underperformance in the future. 
+    - Using the forecasts built into the interactive dashboard, managers can determine if future growth rates indicate a need for branch optimization based on historical trends.
+    
+#### Branch Optimization Strategies
+- Increase digital channels marketing these online platforms to increase client interactions with branches as mobile adoption has increased in recent years (Gujral et al., 2020).
+- Consider reduction or removal of fees for transactions over the monthly limit will also encourage clients to make more deposits or transfer funds between accounts without fear of penalty (Fettig & Feldman, 1998).
+- Increase rebates for opening new accounts to encourage making more deposits, and offer to round out transactions made on credit cards by depositing the remainder into savings accounts. 
+- In conjunction with removing monthly transaction limits, this would increase the amount of money being deposited into savings accounts and increase customer retention.
+    
+#### The Forecasting Model
+The forecasting model also provides the institution the ability to make more informed decisions on the immediate future of the firm and for a more data-driven approach in strategic planning including for branch optimizations. This will also allow JPMorgan Chase to assess whether short-term goals are being met and develop action plans in anticipation of down years.
 
+Link to [Interactive Dashboard](https://public.tableau.com/views/JPMorgan_ChaseStory_16537215416810/JPMorgan_Chase?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+_The purpose of this dashboard is to assist the Chase Bank to identify, monitor and improve on the branches that are underperforming at the county, city and state level by using Year over Year Growth Rate, Share of Segment and Average Deposits as measurement metrics._
