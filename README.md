@@ -54,3 +54,9 @@ The forecasting model also provides the institution the ability to make more inf
 The purpose of this dashboard is to assist the Chase Bank to identify, monitor and improve on the branches that are underperforming at the county, city and state level by using Year over Year Growth Rate, Share of Segment and Average Deposits as measurement metrics.
 
 Link to [Interactive Dashboard](https://public.tableau.com/views/JPMorgan_ChaseStory_16537215416810/JPMorgan_Chase?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+
+## References
+Gujral, V., Malik, N., & Taraporevala, Z. (2020, April 13). Rewriting the rules in retail banking. McKinsey & Company. Retrieved December 14, 2021, from https://www.mckinsey.com/industries/financial-services/our-insights/rewriting-the-rules-in-retail-banking. 
+
+Fettig, D., & Feldman, R. J. (1998, July 1). Declining deposits ... is it all bad news? Federal Reserve Bank of Minneapolis. Retrieved December 14, 2021, from https://www.minneapolisfed.org/article/1998/declining-deposits-is-it-all-bad-news 
