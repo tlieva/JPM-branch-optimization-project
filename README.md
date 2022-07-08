@@ -11,7 +11,8 @@ Our goal was to develop branch optimization strategies in the United States that
 
 We were provided with  Chase Bank data for retail deposits (i.e. mainly checking and savings accounts) at the branch level from 2010 to 2016. This includes information on locations across the United States, the date in which the branch was established, and acquired date if applicable. 
 
-The raw dataset can be found here.
+A sample of raw dataset can be viewed [here via ipynb](https://github.com/tlieva/JPM-branch-optimization-project/blob/668c0d877f76fda5bf05123ff825b0de9931a848/JPmorgan_chase_raw.ipynb).
+
 
 Applications used: SAS, Tableau
 
@@ -25,6 +26,8 @@ Furthermore, branches that have not been active over the last seven years from 2
 The final processed data was exported from SAS into an Excel file for further modeling and forecasting in Tableau. Data at the data source level was pivoted to accurately display time series calculations, and generate yearly growth rates, segment shares and average deposits using table calculations. 
 
 **Applications used:** SAS, Tableau
+
+**Copy of Cleaned CSV file:** [Downloaded from here](https://github.com/tlieva/JPM-branch-optimization-project/blob/668c0d877f76fda5bf05123ff825b0de9931a848/Analytical-file.xlsx)
 
 
 ## Summary Data Analysis & Findings
