@@ -50,5 +50,7 @@ The final processed data was exported from SAS into an Excel file for further mo
 #### The Forecasting Model
 The forecasting model also provides the institution the ability to make more informed decisions on the immediate future of the firm and for a more data-driven approach in strategic planning including for branch optimizations. This will also allow JPMorgan Chase to assess whether short-term goals are being met and develop action plans in anticipation of down years.
 
+### Interactive Dashbaord
+The purpose of this dashboard is to assist the Chase Bank to identify, monitor and improve on the branches that are underperforming at the county, city and state level by using Year over Year Growth Rate, Share of Segment and Average Deposits as measurement metrics.
+
 Link to [Interactive Dashboard](https://public.tableau.com/views/JPMorgan_ChaseStory_16537215416810/JPMorgan_Chase?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-_The purpose of this dashboard is to assist the Chase Bank to identify, monitor and improve on the branches that are underperforming at the county, city and state level by using Year over Year Growth Rate, Share of Segment and Average Deposits as measurement metrics._
