@@ -27,6 +27,8 @@ The final processed data was exported from SAS into an Excel file for further mo
 
 **Applications used:** SAS, Tableau
 
+**SAS Code:** [File here](https://github.com/tlieva/JPM-branch-optimization-project/blob/0e7790d102153139fed5e13bd88a1a06c34cf783/JPMorgan-Branch-Optimization-Analytical-File.sas)
+
 **Copy of Cleaned CSV file:** [Downloaded from here](https://github.com/tlieva/JPM-branch-optimization-project/blob/668c0d877f76fda5bf05123ff825b0de9931a848/Analytical-file.xlsx)
 
 
