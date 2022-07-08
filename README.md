@@ -5,8 +5,10 @@ The project involved analyzing a sample of the JPMorgan Chase & Co Bank retail d
 
 #### Final Deliverables:
 - Identified underperforming branches of concern that would require new optimization strategies based on 3 key KPI analyzed for each segment: Y-o-Y growth rate, average deposits, and share of segment by state, county, and city level.
-- Developed forecasting models to predict future growth rates to further support strategic planning.
+- Developed forecasting model to predict future growth rates to further support strategic planning.
 - Application(s) used: SQL-SAS for data cleaning and transformation; data modelling and forecasting using Tableau.
+
+Interactive dashboard can be found [here.](https://public.tableau.com/views/JPMorgan_ChaseStory_16537215416810/JPMorgan_Chase?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Project Background
 JPMorgan Chase & Co. (NYSE: JPM) is a leading global financial services firm with assets of $1.2 trillion and operations in more than 50 countries. The firm is a leader in financial services for consumers and several other lines of business. JPM serves millions of consumers in the United States under its JPMorgan and Chase brands (Chase Bank).
