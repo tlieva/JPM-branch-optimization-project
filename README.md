@@ -9,7 +9,7 @@ The project involved analyzing a sample of the JPMorgan Chase & Co Bank retail d
 - Application(s) used: SQL-SAS for data cleaning and transformation; data modelling and forecasting using Tableau.
 
 #### Project files:
-- Link to [Interactive Dashboard](https://public.tableau.com/views/JPMorgan_ChaseStory_16537215416810/JPMorgan_Chase?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- [Interactive Dashboard](https://public.tableau.com/views/JPMorgan_ChaseStory_16537215416810/JPMorgan_Chase?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 - [Sample Raw Dataset](https://github.com/tlieva/JPM-branch-optimization-project/blob/668c0d877f76fda5bf05123ff825b0de9931a848/JPmorgan_chase_raw.ipynb)
 - [SAS Code](https://github.com/tlieva/JPM-branch-optimization-project/blob/0e7790d102153139fed5e13bd88a1a06c34cf783/JPMorgan-Branch-Optimization-Analytical-File.sas)
 - [Final Analytical Data](https://github.com/tlieva/JPM-branch-optimization-project/blob/668c0d877f76fda5bf05123ff825b0de9931a848/Analytical-file.xlsx)
