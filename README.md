@@ -8,7 +8,11 @@ The project involved analyzing a sample of the JPMorgan Chase & Co Bank retail d
 - Developed forecasting model to predict future growth rates to further support strategic planning.
 - Application(s) used: SQL-SAS for data cleaning and transformation; data modelling and forecasting using Tableau.
 
-Interactive dashboard can be found [here.](https://public.tableau.com/views/JPMorgan_ChaseStory_16537215416810/JPMorgan_Chase?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+#### Project files:
+- Link to [Interactive Dashboard](https://public.tableau.com/views/JPMorgan_ChaseStory_16537215416810/JPMorgan_Chase?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- [Sample Raw Dataset](https://github.com/tlieva/JPM-branch-optimization-project/blob/668c0d877f76fda5bf05123ff825b0de9931a848/JPmorgan_chase_raw.ipynb).
+- [SAS Code](https://github.com/tlieva/JPM-branch-optimization-project/blob/0e7790d102153139fed5e13bd88a1a06c34cf783/JPMorgan-Branch-Optimization-Analytical-File.sas)
+- [Final Analytical Data](https://github.com/tlieva/JPM-branch-optimization-project/blob/668c0d877f76fda5bf05123ff825b0de9931a848/Analytical-file.xlsx)
 
 ## Project Background
 JPMorgan Chase & Co. (NYSE: JPM) is a leading global financial services firm with assets of $1.2 trillion and operations in more than 50 countries. The firm is a leader in financial services for consumers and several other lines of business. JPM serves millions of consumers in the United States under its JPMorgan and Chase brands (Chase Bank).
@@ -19,8 +23,6 @@ Our goal was to develop branch optimization strategies in the United States that
 3. **Enhance use of existing branch channels to keep client retention and grow its customer base.**
 
 We were provided with  Chase Bank data for retail deposits (i.e. mainly checking and savings accounts) at the branch level from 2010 to 2016. This includes information on locations across the United States, the date in which the branch was established, and acquired date if applicable. 
-
-A sample of raw dataset can be viewed [here via ipynb](https://github.com/tlieva/JPM-branch-optimization-project/blob/668c0d877f76fda5bf05123ff825b0de9931a848/JPmorgan_chase_raw.ipynb).
 
 
 ## Methodology
@@ -33,10 +35,6 @@ Furthermore, branches that have not been active over the last seven years from 2
 The final processed data was exported from SAS into an Excel file for further modeling and forecasting in Tableau. Data at the data source level was pivoted to accurately display time series calculations, and generate yearly growth rates, segment shares and average deposits using table calculations. 
 
 **Applications used:** SAS, Tableau
-
-**SAS Code:** [File here](https://github.com/tlieva/JPM-branch-optimization-project/blob/0e7790d102153139fed5e13bd88a1a06c34cf783/JPMorgan-Branch-Optimization-Analytical-File.sas)
-
-**Copy of Cleaned CSV file:** [Downloaded from here](https://github.com/tlieva/JPM-branch-optimization-project/blob/668c0d877f76fda5bf05123ff825b0de9931a848/Analytical-file.xlsx)
 
 
 ## Summary Data Analysis & Findings
