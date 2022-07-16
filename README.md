@@ -24,7 +24,6 @@ Our goal was to develop branch optimization strategies in the United States that
 
 We were provided with  Chase Bank data for retail deposits (i.e. mainly checking and savings accounts) at the branch level from 2010 to 2016. This includes information on locations across the United States, the date in which the branch was established, and acquired date if applicable. 
 
-
 ## Methodology
 **Summary of approach:** To develop appropriate optimization strategies, we looked to identify underperforming branches under JPMorgan Chase & Co by segmenting the deposit data provided by the firm by state, county, and city. Performance will be measured by analyzing the year-over-year, share of segments, total and average deposits at each segment level to identify the underperforming branches that require further evaluation to increase optimization. Appropriate recommendations are to be provided based on identification of underperforming branches at JPMorgan Chase & Co.
 
@@ -36,11 +35,25 @@ The final processed data was exported from SAS into an Excel file for further mo
 
 **Applications used:** SAS, Tableau
 
+### Key Performance Indicators
+
+<img width="781" alt="Screen Shot 2022-07-16 at 3 06 09 AM" src="https://user-images.githubusercontent.com/106416383/179344255-df6602df-84b8-43e9-9852-220381a4a73c.png">
+
+
 
 ## Summary Data Analysis & Findings
  - Analysis was conducted using a top-down approach which identified New York as the state of interest with the highest average deposits across the country. Furthermore, its average growth rate has reached 9.3% over the last 7 years. 
+
+<img width="895" alt="Screen Shot 2022-07-16 at 3 07 30 AM" src="https://user-images.githubusercontent.com/106416383/179344290-f5d234c1-a33a-46dc-a02e-843db108e61c.png">
+
  - When assessing segmentation by counties, Suffolk and Westchester show indications of underperformance in comparison with the rest of the counties. These counties were found to have lower than average deposits despite having a large number of branch locations at 84 and 91 branches, respectively, when compared to counties with similar numbers. 
+
+<img width="997" alt="Screen Shot 2022-07-16 at 3 15 13 AM" src="https://user-images.githubusercontent.com/106416383/179344567-054806da-9a18-4a4a-9e1e-cbba287eef9b.png">
+
+
  - Further segmentation by city level within the two counties identified six branches of concern that had a negative growth rate in 2016. 
+ 
+<img width="700" alt="Screen Shot 2022-07-16 at 3 12 44 AM" src="https://user-images.githubusercontent.com/106416383/179344496-6cf64042-4544-4aa7-8d6a-62bcc12a90a2.png">
 
 #### Therefore, our group presents the following three main recommendations:  
 1. **Re-assess the location of underperforming branches**
@@ -59,6 +72,8 @@ The final processed data was exported from SAS into an Excel file for further mo
     
 #### The Forecasting Model
 The forecasting model also provides the institution the ability to make more informed decisions on the immediate future of the firm and for a more data-driven approach in strategic planning including for branch optimizations. This will also allow JPMorgan Chase to assess whether short-term goals are being met and develop action plans in anticipation of down years.
+
+<img width="886" alt="Screen Shot 2022-07-16 at 2 57 13 AM" src="https://user-images.githubusercontent.com/106416383/179344005-93d59acc-2b6f-46f1-8d79-4e6964b608ef.png">
 
 #### Interactive Dashbaord
 The purpose of this dashboard is to assist the Chase Bank to identify, monitor and improve on the branches that are underperforming at the county, city and state level by using Year over Year Growth Rate, Share of Segment and Average Deposits as measurement metrics.
