@@ -75,7 +75,7 @@ The purpose of this dashboard is to assist the Chase Bank to identify, monitor a
 Link to [Interactive Dashboard](https://public.tableau.com/views/JPMorgan_ChaseStory_16537215416810/JPMorgan_Chase?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 #### The Forecasting Model
-Included in the interactive dashboard is the forcasting model. The aim of the forecasting model is to provide management the ability to make more informed decisions on the immediate future of the firm, and provide a more data-driven approach in strategic planning including branch optimizations as presented in this case project Ultimately, this will allow JPMorgan Chase to assess whether short-term goals are being met and develop action plans in anticipation of down years.
+Included in the interactive dashboard is the forcasting model to estimate future deposits for the 2017 to 2018 year based on 2016 deposit data. The aim of the forecasting model is to provide management the ability to make more informed decisions on the immediate future of the firm, and provide a more data-driven approach in strategic planning on a state, county, city and branch level. This will allow JPMorgan Chase to assess whether short-term goals are being met and develop action plans in anticipation of down years.
 
 <img width="886" alt="Screen Shot 2022-07-16 at 2 57 13 AM" src="https://user-images.githubusercontent.com/106416383/179344005-93d59acc-2b6f-46f1-8d79-4e6964b608ef.png">
 
