@@ -24,16 +24,16 @@ Our goal was to develop branch optimization strategies in the United States that
 
 We were provided with  Chase Bank data for retail deposits (i.e. mainly checking and savings accounts) at the branch level from 2010 to 2016. This includes information on locations across the United States, the date in which the branch was established, and acquired date if applicable. 
 
-## Methodology
-**Summary of approach:** To develop appropriate optimization strategies, we looked to identify underperforming branches under JPMorgan Chase & Co by segmenting the deposit data provided by the firm by state, county, and city. Performance will be measured by analyzing the year-over-year, share of segments, total and average deposits at each segment level to identify the underperforming branches that require further evaluation to increase optimization. Appropriate recommendations are to be provided based on identification of underperforming branches at JPMorgan Chase & Co.
+## Summary of Methodology
+To develop appropriate optimization strategies, we looked to identify underperforming branches under JPMorgan Chase & Co by segmenting the deposit data provided by the firm by state, county, and city. Performance was to be measured by analyzing the year-over-year, share of segments, total and average deposits at each segment level to identify the underperforming branches that require further evaluation to increase optimization (list of key performance indicators can below). Appropriate recommendations were provided based on identification of underperforming branches at JPMorgan Chase & Co.
 
-Data cleaning and processing was completed via Structured Query Language (SQL)-based queries in SAS analytical software whereby duplicate records and outliers were removed from the raw dataset. This was determined by identifying the upper outer limit of the interquartile range which excluded the extreme outliers from the dataset with deposits from 2010 to 2016 totalling to greater than $2,000,000. 
+Data cleaning and processing was completed using Structured Query Language (SQL)-based queries in SAS analytical software whereby duplicate records and outliers were removed from the raw dataset. This was determined by **identifying the upper outer limit of the interquartile range** which excluded the extreme outliers from the dataset with deposits from 2010 to 2016 totalling to greater than $2,000,000. 
 
 Furthermore, branches that have not been active over the last seven years from 2010 to 2016 with deposits totalling to less than $10 were also removed from the final analytical file. 
 
-The final processed data was exported from SAS into an Excel file for further modeling and forecasting in Tableau. Data at the data source level was pivoted to accurately display time series calculations, and generate yearly growth rates, segment shares and average deposits using table calculations. 
+The final processed data was exported as Excel file for further modeling and forecasting in Tableau. Data at the data source level was pivoted to accurately display time series calculations, and generate yearly growth rates, segment shares and average deposits in Tableau. 
 
-**Applications used:** SAS, Tableau
+**Applications used:** SQL-SAS, Tableau
 
 ### Key Performance Indicators
 
@@ -49,7 +49,6 @@ The final processed data was exported from SAS into an Excel file for further mo
  - When assessing segmentation by counties, Suffolk and Westchester show indications of underperformance in comparison with the rest of the counties. These counties were found to have lower than average deposits despite having a large number of branch locations at 84 and 91 branches, respectively, when compared to counties with similar numbers. 
 
 <img width="997" alt="Screen Shot 2022-07-16 at 3 15 13 AM" src="https://user-images.githubusercontent.com/106416383/179344567-054806da-9a18-4a4a-9e1e-cbba287eef9b.png">
-
 
  - Further segmentation by city level within the two counties identified six branches of concern that had a negative growth rate in 2016. 
  
@@ -69,16 +68,16 @@ The final processed data was exported from SAS into an Excel file for further mo
 - Consider reduction or removal of fees for transactions over the monthly limit will also encourage clients to make more deposits or transfer funds between accounts without fear of penalty (Fettig & Feldman, 1998).
 - Increase rebates for opening new accounts to encourage making more deposits, and offer to round out transactions made on credit cards by depositing the remainder into savings accounts. 
 - In conjunction with removing monthly transaction limits, this would increase the amount of money being deposited into savings accounts and increase customer retention.
-    
-#### The Forecasting Model
-The forecasting model also provides the institution the ability to make more informed decisions on the immediate future of the firm and for a more data-driven approach in strategic planning including for branch optimizations. This will also allow JPMorgan Chase to assess whether short-term goals are being met and develop action plans in anticipation of down years.
-
-<img width="886" alt="Screen Shot 2022-07-16 at 2 57 13 AM" src="https://user-images.githubusercontent.com/106416383/179344005-93d59acc-2b6f-46f1-8d79-4e6964b608ef.png">
 
 #### Interactive Dashbaord
 The purpose of this dashboard is to assist the Chase Bank to identify, monitor and improve on the branches that are underperforming at the county, city and state level by using Year over Year Growth Rate, Share of Segment and Average Deposits as measurement metrics.
 
 Link to [Interactive Dashboard](https://public.tableau.com/views/JPMorgan_ChaseStory_16537215416810/JPMorgan_Chase?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+#### The Forecasting Model
+Included in the interactive dashboard is the forcasting model. The aim of the forecasting model is to provide management the ability to make more informed decisions on the immediate future of the firm, and provide a more data-driven approach in strategic planning including branch optimizations as presented in this case project Ultimately, this will allow JPMorgan Chase to assess whether short-term goals are being met and develop action plans in anticipation of down years.
+
+<img width="886" alt="Screen Shot 2022-07-16 at 2 57 13 AM" src="https://user-images.githubusercontent.com/106416383/179344005-93d59acc-2b6f-46f1-8d79-4e6964b608ef.png">
 
 
 ## References
