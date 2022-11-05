@@ -1,7 +1,5 @@
 # JP Morgan Chase & Co. Branch Optimization Project
-Repository for collaborative term project completed for BUS4022 Programming Fundamentals for Analytics during my post-graduate studies at George Brown College in Analytics for Business Decision-Making. 
-
-The project involved analyzing a sample of the JPMorgan Chase & Co Bank retail deposits data at the branch level from 2010 to 2016, with the goal of providing branch optimization strategies for 9% increase in customer retention and overall bank growth via top-down approach.
+Repository for collaborative term project.The project involved analyzing a sample of the JPMorgan Chase & Co Bank retail deposits data at the branch level from 2010 to 2016, with the goal of providing branch optimization strategies for 9% increase in customer retention and overall bank growth via top-down approach.
 
 #### Final Deliverables:
 - Identified underperforming branches of concern that would require new optimization strategies based on 3 key KPI analyzed for each segment: Y-o-Y growth rate, average deposits, and share of segment by state, county, and city level.
