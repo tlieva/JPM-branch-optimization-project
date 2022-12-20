@@ -8,7 +8,7 @@ Repository for collaborative term project. The project involved analyzing a samp
 
 #### Project files:
 - [Interactive Dashboard](https://public.tableau.com/views/JPMorgan_ChaseStory_16537215416810/JPMorgan_Chase?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-- [Sample Raw Dataset](https://github.com/tlieva/JPM-branch-optimization-project/blob/668c0d877f76fda5bf05123ff825b0de9931a848/JPmorgan_chase_raw.ipynb)
+- [Sample Raw Dataset](https://github.com/tlieva/JPM-branch-optimization-project/blob/0fcfe8bc8aa50837443b9352d4a15b16aa68afa4/JPmorgan_chase_raw.csv)
 - [SAS Code](https://github.com/tlieva/JPM-branch-optimization-project/blob/0e7790d102153139fed5e13bd88a1a06c34cf783/JPMorgan-Branch-Optimization-Analytical-File.sas)
 - [Final Analytical Data](https://github.com/tlieva/JPM-branch-optimization-project/blob/668c0d877f76fda5bf05123ff825b0de9931a848/Analytical-file.xlsx)
 
