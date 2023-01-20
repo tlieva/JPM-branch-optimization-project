@@ -1,5 +1,5 @@
 # JP Morgan Chase & Co. Branch Optimization Project
-Repository for collaborative case study in analyzing a sample of the JPMorgan Chase & Co Bank branch retail deposits data over a six-year period from 2010 to 2016, with the objective of providing branch optimization strategies for 9% increase in customer retention and overall bank growth via a top-down approach.
+Repository for collaborative case study project in analyzing a sample of the JPMorgan Chase & Co Bank branch retail deposits data over a six-year period from 2010 to 2016, with the objective of providing branch optimization strategies for 9% increase in customer retention and overall bank growth via a top-down approach. Completed for academic purposes.
 
 #### Final Deliverables:
 - Identified underperforming branches of concern that would require new optimization strategies based on 3 key KPI analyzed for each segment: Y-o-Y growth rate, average deposits, and share of segment by state, county, and city level.
